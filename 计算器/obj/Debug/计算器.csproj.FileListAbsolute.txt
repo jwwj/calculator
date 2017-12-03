@@ -1,0 +1,14 @@
+E:\c#实验\计算器\计算器\bin\Debug\计算器.exe.config
+E:\c#实验\计算器\计算器\obj\Debug\计算器.csprojResolveAssemblyReference.cache
+E:\c#实验\计算器\计算器\obj\Debug\计算器.Form1.resources
+E:\c#实验\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+E:\c#实验\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache
+E:\c#实验\计算器\计算器\bin\Debug\计算器.exe
+E:\c#实验\计算器\计算器\bin\Debug\计算器.pdb
+E:\c#实验\计算器\计算器\obj\Debug\计算器.exe
+E:\c#实验\计算器\计算器\obj\Debug\计算器.pdb
+E:\c#实验\计算器\计算器\bin\Debug\计算器.exe.manifest
+E:\c#实验\计算器\计算器\bin\Debug\计算器.application
+E:\c#实验\计算器\计算器\obj\Debug\计算器.exe.manifest
+E:\c#实验\计算器\计算器\obj\Debug\计算器.application
+E:\c#实验\计算器\计算器\obj\Debug\计算器.Form2.resources
